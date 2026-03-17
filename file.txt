@@ -1,1 +1,2 @@
 	This is file used in demonstartion of git pull
+    This is second line added from remote repository
